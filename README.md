@@ -30,7 +30,7 @@ This queue is used to calculate wait times.
         wait_time = (line / capacity)                   
 ```
 ### 3. Simulating Customer Satisfaction and Retention Rate
-To calculate customer satisfaction and rentention, an exponential decay function was used to calculate the relationship between wait times and customer satisfaction. 
+To calculate customer satisfaction and rentention, an exponential decay function was used. 
 
 The longer a customer waited, satisfaction and retention scores would decrease exponentially.
 
