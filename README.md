@@ -34,7 +34,7 @@ To calculate customer satisfaction and rentention, an exponential decay function
 
 The longer a customer waited, satisfaction and retention scores would decrease exponentially.
 
-For customer retention, this decrease represented potential customers who did not end up returning to make a purchase.
+For customer retention, this decrease represented potential customers who did not return to make a purchase within the year.
 
 ```python
 k = 0.05 
