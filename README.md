@@ -116,7 +116,7 @@ Through visualization of the three graphs it appeared that at **6** employees, p
 
 Although through a deeper analysis of the data using the table, I found that at for each added employee after the 5th, marginal labor cost began to outweigh marginal revenue. Meaning that the maximum profit actaully occured at **5** employees.
 
-At **100%** Satisfaction, profit is **33%** lower than the maximum due to the excessive labor cost required to reach that final **13%** of customer satisfaction.
+At **100%** Satisfaction, profit is **33%** lower than the maximum due to the excessive labor cost required to reach that final **~13%** of customer satisfaction.
 
 **So based on these findings, I would recommend staffing 5-6 employees. This balances max profit and relatively high customer satisfaction while avoiding the point of diminishing returns that occurs beynod this number of employees.**
 
