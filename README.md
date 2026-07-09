@@ -78,7 +78,7 @@ So for the purpose of graphing, I only included outcomes from 1 through 20 emplo
 
 ![Staffing vs. Profitability](graphs/employees_vs_profit_graph.png)
 
-Visually looking at the graph, it looks like at around 6 employees, profit begins to decrease due to higer labor cost outweighing revenue.
+Visually looking at the graph, it looks like at around 6 employees, profit begins to decrease due to higher labor cost outweighing revenue.
 
 ### 2. Customer Satisfaction vs. Profitability
 *This graph shows the trade-off between profit and customer satisfaction*
