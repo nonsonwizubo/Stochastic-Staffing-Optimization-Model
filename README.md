@@ -78,7 +78,7 @@ So for the purpose of graphing, I only included outcomes from 1 through 20 emplo
 
 ![Staffing vs. Profitability](graphs/employees_vs_profit_graph.png)
 
-Visually looking at the graph, it looks like beyond 6 employees, profit begins to decrease due to higer labor cost outweighing revenue.
+Visually looking at the graph, it looks like at around 6 employees, profit begins to decrease due to higer labor cost outweighing revenue.
 
 ### 2. Customer Satisfaction vs. Profitability
 *This graph shows the trade-off between profit and customer satisfaction*
@@ -108,17 +108,15 @@ This graph shows how higher staffing levels decrease wait times, resulting in hi
 | 15 | 0.27 mins | $1,719,333 | $657,000 | $1,062,333 | 98.6% |
 | 20 | 0.00 mins | $1,749,500 | $876,000 | $873,500 | 100.0% |
 
-Through  this table, It shows max profit actually occurs at 5 employees
+Through  this table, It shows max profit occurs at 5 employees
 
 ## Conclusion
 
-Through visualization of the three graphs it appeared that at **6** employees, profit maximized with around **90%** satisfaction.
+The simulation identified **5 employees** as the profit-maximizing staffing level. While the visualization suggested that profit peaked around **6 employees** with approximately **90% customer satisfaction**, deeper analysis of the simulation results showed that marginal labor costs began to outweigh marginal revenue after the 5th employee.
 
-Although through a deeper analysis of the data using the table, I found that at for each added employee after the 5th, marginal labor cost began to outweigh marginal revenue. Meaning that the maximum profit actaully occured at **5** employees.
+Adding a sixth employee increased customer satisfaction from **86.7% to 89.6%** but reduced annual profit by approximately **$1,400**, demonstrating the point where additional staffing begins to provide diminishing returns.
 
-At **100%** Satisfaction, profit is **33%** lower than the maximum due to the excessive labor cost required to reach that final **~13%** of customer satisfaction.
-
-**So based on these findings, I would recommend staffing 5-6 employees. This balances max profit and relatively high customer satisfaction while avoiding the point of diminishing returns that occurs beynod this number of employees.**
+Achieving **100% customer satisfaction** required significantly higher staffing costs and resulted in a **33% reduction in profit** compared to the maximum-profit staffing level. Therefore, the optimal staffing decision depends on the operational priority: maximizing profitability favors 5 employees, while prioritizing customer experience may justify additional staffing.
 
 
 ## Python Libraries Used
